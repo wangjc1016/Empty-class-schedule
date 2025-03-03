@@ -36,13 +36,15 @@ myapp/
 
 ## 🏃 快速开始
 
+你可以直接使用已部署好的链接：[已部署链接地址](http://124.222.16.229:5013/)，但由于链接随时可能失效，且由于跨域问题，获取ICS的过程必须通过服务器代理，所以建议本地部署。
+
 ### 1. 本地运行
 
 1. **克隆仓库**
 
    ```bash
-   git clone <仓库地址>
-   cd myapp
+   git clone https://github.com/wangjc1016/Empty-class-schedule
+   cd Empty-class-schedule
    ```
 
 2. **安装依赖**
